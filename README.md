@@ -1,8 +1,8 @@
 <div align="center">
-**Guitar Signal Chain Modelling with Deep Learning**
+  <span style="font-weight: bold; font-size: 1.3em;">
+    Guitar Signal Chain Modelling with Deep Learning
+  </span>
 </div>
-
-This is a repository to show off my bachelor's degree dissertation. This research was performed during my time studying Computer Science at the University of Surrey.
 
 This research investigates the ability of structured state space models with temporal feature-wise linear modulation to learn to replicate entire guitar signal chains that include both effects pedals and amplifiers. Recent research released earlier in the year had proved the ability of this neural architecture to simulate both linear and non-linear effects pedals, and so I extended this application to chains of multiple effects. I showed that single black box neural models outperform grey-box equivalents comprised of chains of individual models trained on each effect in isolation.
 
