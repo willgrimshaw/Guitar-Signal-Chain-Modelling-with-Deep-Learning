@@ -1,5 +1,5 @@
 <div align="center">
-# Guitar Signal Chain Modelling with Deep Learning
+**Guitar Signal Chain Modelling with Deep Learning**
 </div>
 
 This is a repository to show off my bachelor's degree dissertation. This research was performed during my time studying Computer Science at the University of Surrey.
