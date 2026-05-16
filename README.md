@@ -5,7 +5,6 @@
 </div>
 
 This research investigates the ability of structured state space models with temporal feature-wise linear modulation to learn to replicate entire guitar signal chains that include both effects pedals and amplifiers. Recent research released earlier in the year had proved the ability of this neural architecture to simulate both linear and non-linear effects pedals, and so I extended this application to chains of multiple effects. I showed that single black box neural models outperform grey-box equivalents comprised of chains of individual models trained on each effect in isolation.
-
 The [NablAFx](https://github.com/mcomunita/nablafx) framework was used to train and test models. The datasets created for this research used existing guitar recordings from the [ToneTwisT AFx Dataset](https://github.com/willgrimshaw/tonetwist-afx-dataset) and can be found on [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Grimshaw%2C%20William%22&l=list&p=1&s=10&sort=bestmatch).
 
 ## Contents
